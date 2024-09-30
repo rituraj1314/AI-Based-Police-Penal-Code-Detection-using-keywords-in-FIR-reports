@@ -31,7 +31,7 @@ This dataset serves as the foundation for the app's crime detection capabilities
 ## Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/crime-detection-app.git
+   git clone https://github.com/rituraj1314/AI-Based-Police-Penal-Code-Detection-using-keywords-in-FIR-reports.git
    ```
 2. Download the spaCy English model:
    ```
