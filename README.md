@@ -1,7 +1,5 @@
 # AI-Based-Police-Penal-Code-Detection-using-keywords-in-FIR-reports
 
-# Crime Detection App
-
 ## Overview
 This Crime Detection App is an intelligent system designed to assist in identifying and categorizing criminal offenses based on user-provided descriptions. It utilizes natural language processing and machine learning techniques to match input descriptions with relevant crimes, their corresponding Indian Penal Code (IPC) sections, and other pertinent details.
 
